@@ -78,12 +78,4 @@ Access at: http://localhost:5173
 - [Changelog](CHANGELOG.md) - Development history
 - [Complete Specification](COMPLETE_PROJECT_SPECIFICATION.md) - Full project spec
 
-## 🎓 Academic
 
-**Thesis Title:** *"Intelligent PPE Compliance Monitoring: A Hybrid Deep Learning Framework with Semantic Verification for Construction Safety"*
-
-**Research Contribution:** Addresses the Absence Detection Paradox - standard detectors excel at presence detection (94-96%) but struggle with absence detection (41%). Our hybrid approach achieves 62.5% precision on absence detection.
-
----
-
-*Built for Undergraduate Thesis | 2026*
