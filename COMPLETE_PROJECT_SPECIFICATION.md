@@ -8,7 +8,7 @@
 ## 🎓 ACADEMIC CONTEXT
 
 ### Project Title
-**"Intelligent PPE Compliance Monitoring: A Hybrid Deep Learning Framework with Semantic Verification for Construction Safety"**
+**"Smart PPE Compliance Monitoring: A Hybrid Deep Learning Framework with Semantic Verification for Construction Safety"**
 
 ### Academic Level
 - **Degree:** Bachelor's (Undergraduate Thesis)
