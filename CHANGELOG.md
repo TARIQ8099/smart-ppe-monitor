@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
-### 2026-01-28 - Violation De-duplication (Cooldown System)
+### Violation De-duplication (Cooldown System)
 
 #### Added
 - **Violation Tracker Service** (`services/violation_tracker.py`)
@@ -32,7 +32,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-### 2026-01-24 - Core Features Complete (Video, History, Settings)
+### Core Features Complete (Video, History, Settings)
 
 #### Added
 - **Video Detection System**
@@ -64,7 +64,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-### 2026-01-24 - Backend Core Implementation Complete
+### Backend Core Implementation Complete
 
 #### Added
 - **Backend Structure** - Complete `backend/` directory with all packages
@@ -103,7 +103,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-### 2026-01-24 - Frontend Implementation Complete
+### Frontend Implementation Complete
 
 #### Added
 - **React/Vite Setup**
@@ -123,7 +123,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-### 2026-01-24 - Project Initialization
+### Project Initialization
 
 #### Added
 - Initial project repository setup
